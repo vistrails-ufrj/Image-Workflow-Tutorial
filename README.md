@@ -1,4 +1,3 @@
-# Image-Workflow-Tutorial
 # First Steps into Keras Image Modules
 
 ## Keras Package
